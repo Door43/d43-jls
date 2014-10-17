@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jls:home|Door43 (jls)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jls|d43-jls repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jls/archive/master.zip|d43-jls.zip]]
+
+**Recent Changes**
+{{changes>ns = jls}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jls|Ethnologue data]]
+
